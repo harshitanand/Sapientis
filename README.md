@@ -4,6 +4,18 @@ A Spring Boot service that handles the end-to-end ticket booking lifecycle for m
 
 ---
 
+## Architecture
+
+### High-Level Architecture
+
+![High-Level Architecture](movie-ticket-booking/high-level.png)
+
+### Low-Level Flow (Booking Write Scenario)
+
+![Low-Level Flow](movie-ticket-booking/low-level.png)
+
+---
+
 ## Tech Stack
 
 | Layer | Choice | Version |
